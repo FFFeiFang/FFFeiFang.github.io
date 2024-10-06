@@ -27,4 +27,4 @@ I am currently a first year Ph.D student at Computer Science and Engineering of 
 - **B.Eng. in Computer Science**  
   *East China Normal University, Shanghai, China*  
   📅 September 2020 - July 2024   
-  💡 *Focus*: Blockchain, deep learning, machine learning
+  💡 *Focus*: Blockchain, Deep learning, Machine learning
