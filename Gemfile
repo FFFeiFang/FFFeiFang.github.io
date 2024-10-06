@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
-  gem "hacker"  # 添加 minima 主题
+  gem "jekyll-theme-hacker"  # 添加 minima 主题
 end
 
 gem 'github-pages'

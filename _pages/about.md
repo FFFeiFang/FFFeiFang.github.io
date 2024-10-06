@@ -24,7 +24,7 @@ I am currently a first year Ph.D student at Computer Science and Engineering of 
   📅 September 2024 - Present  
   💡 *Focus*: Computer Networks, Distributed Systems, Quantum Computing
 
-- **B.Eng. in Software Engineering**  
+- **B.Eng. in Computer Science**  
   *East China Normal University, Shanghai, China*  
   📅 September 2020 - July 2024   
   💡 *Focus*: Blockchain, deep learning, machine learning
