@@ -12,7 +12,7 @@ redirect_from:
 💫 About me
 ======
 
-I am currently a first year Ph.D student at Computer Science and Engineering of University of California, Santa Cruz. My advisor is Prof. Chen Qian. I received my bachelor degree from Departmeny of Computer Science and Technology, East China Normal University (ECNU) in July 2024. I was born in Huangshan, Anhui and grew up in Shanghai.
+I am currently a first year Ph.D student at Computer Science and Engineering of University of California, Santa Cruz. My advisor is Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/). I received my bachelor degree from Departmeny of Computer Science and Technology, East China Normal University (ECNU) in July 2024, where I was advised by Prof. [Jiangang Chen](https://faculty.ecnu.edu.cn/_s15/cjg2_en/main.psp). I was born in Huangshan, Anhui and grew up in Shanghai.
 
 <br>
 

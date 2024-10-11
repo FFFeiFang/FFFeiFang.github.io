@@ -1,5 +1,5 @@
 ---
-title: "TA in coarse Signal and System"
+title: "TA in course Signal and System"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022fall
