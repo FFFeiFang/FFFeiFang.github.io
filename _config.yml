@@ -25,10 +25,9 @@ author:
   pronouns         : "she/her"  
   bio              : "First Year Ph.D. Student in Computer Science"
   location         : "Santa Cruz, CA"
-  employer         : "University of California, Santa Cruz"
+  employer         : "UCSC"
   uri              : # URL
-  email            : "ffang020819@gmail.com" 
-  email_alternate    : "ffang6@ucsc.edu"
+  email            : "ffang6@ucsc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
